@@ -73,3 +73,15 @@ body {
 .dashboard-button > div {
   padding-top: 0.8rem;
 }
+
+.search > img {
+  width: 2rem;
+}
+
+.bell {
+  width: 2rem;
+}
+
+.avatar {
+  width: 2rem;
+}
