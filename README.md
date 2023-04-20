@@ -1,6 +1,6 @@
 # odin-rock-paper-scirssors
 
-[The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) exercise to make a rock, paper, and scissors game.
+[The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-library) exercise to make a rock, paper, and scissors game.
 
 [Live Priview](https://oguzhan-ulutas.github.io/odin-admin-dashboard/)
 
