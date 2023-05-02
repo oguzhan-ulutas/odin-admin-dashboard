@@ -1,8 +1,8 @@
-# odin-rock-paper-scirssors
+# odin-admin-dashboard
 
-[The Odin Project](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) exercise to make a rock, paper, and scissors game.
+[The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) exercise to make a rock, paper, and scissors game.
 
-[Live Priview](https://oguzhan-ulutas.github.io/odin-admin-dashboard/)
+[Live Preview](https://oguzhan-ulutas.github.io/odin-admin-dashboard/)
 
 **What I learned with this project;**
 
