@@ -1,6 +1,6 @@
 # odin-admin-dashboard
 
-[The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) exercise to make a rock, paper, and scissors game.
+[The Odin Project](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) exercise.
 
 [Live Preview](https://oguzhan-ulutas.github.io/odin-admin-dashboard/)
 
